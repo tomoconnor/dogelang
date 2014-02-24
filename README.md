@@ -16,3 +16,6 @@ wow
     ('PRINT', 'y')
     ('PRINT', 'x')
     END
+
+
+Shamelessly adapted from http://www.evanfosmark.com/2009/02/sexy-lexing-with-python/
